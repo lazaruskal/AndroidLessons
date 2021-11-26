@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AndroidLessons</string>
+
+    <!-- Main Activity -->
+    <string name="name_title">Name</string>
+    <string name="color_title">Color</string>
+    <string name="salary_title">Salary</string>
+
+
+    <!-- Second Activity -->
+    <string name="go_to_second">Second Activity</string>
+    <string name="go_to_main_activity">Go me back to Main Activity</string>
+
+
+    <!-- Students -->
+    <string name="students_title"> ΣΤΟΙΧΕΙΑ ΜΑΘΗΤΗ</string>
+    <string name="student_first_name"> ΟΝΟΜΑ:</string>
+    <string name="student_last_name"> ΕΠΩΝΥΜΟ:</string>
+    <string name="student_age"> ΗΛΙΚΙΑ:</string>
+    <string name="student_class"> ΤΑΞΗ:</string>
+
+
+
+
+</resources>
